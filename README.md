@@ -5,7 +5,7 @@
 [![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
 
 ![Ana Bastos GitHub stats](https://github-readme-stats.vercel.app/api?username=Anabastoslps&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anabastoslps&compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anabastoslps&compact=radical)
 
 ### Tecnologias que utilizo no meu dia
 
