@@ -1,6 +1,17 @@
 ## Oii eu sou a Ana Bastos, realizo alguns posts de projetinhos aqui para ajudar e praticar tambem!!!
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anabastoslps&show_icons=true&theme=radical)
 
+- 👩🏽‍💻 Hoje estou Estaginado em Desenvolvimento Web
+- 📁 Estudando e fazendo projetinhos em JAVA
+
+<div>
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anabastoslps&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anabastoslps&layout=compact&theme=radical)
+</div>
+    
+
+
+  
 
 
 <div style="display: inline_block"><br>
