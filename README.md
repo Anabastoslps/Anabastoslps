@@ -1,4 +1,4 @@
-## Ei eu sou a Ana Bastos!!!
+## Oii eu sou a Ana Bastos, Graduanda de Analise e desenvolvimentos de Sistemas e faço uns posts de projetinhos aqui para ajudar e aprender tambem!!!
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anabastoslps&show_icons=true&theme=radical)
 
 
