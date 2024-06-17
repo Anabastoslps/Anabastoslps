@@ -1,6 +1,6 @@
 ## Oii eu sou a Ana Bastos, realizo alguns posts de projetinhos aqui para ajudar e praticar tambem!!!
 
-- 👩🏽‍💻 Hoje estou Estaginado em Desenvolvimento Web
+- 👩🏽‍💻 Hoje estou Estagiando em Desenvolvimento Web
 - 📁 Estudando e fazendo projetinhos em JAVA
 
 <div>
