@@ -1,7 +1,7 @@
 ## Oii eu sou a Ana Bastos, realizo alguns posts de projetinhos aqui para ajudar e praticar tambem!!!
 
 - 👩🏽‍💻 Hoje estou Estagiando em Desenvolvimento Web
-- 📁 Estudando e fazendo projetinhos em JAVA
+- 📁 Estudando e fazendo projetinhos em  .Net e Angular
 
 <div>
   
@@ -20,7 +20,6 @@
   <img align="center" alt="Ana-CSS" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ana-Js" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Ana-React" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Ana-PHP" height="38" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
    <img align="center" alt="Ana-java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
 
